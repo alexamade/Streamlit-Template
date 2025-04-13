@@ -1,2 +1,4 @@
-# add the required pypi packages here that your app actually needs
 streamlit
+Pillow
+requests
+streamlit-lottie
